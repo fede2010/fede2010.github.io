@@ -1,0 +1,10 @@
+.marco{
+    box-sizing: border-box;
+    margin-right: 1%;
+}
+.porcentaje{
+    padding-left: 50px;
+}
+#comprar-tickets:hover{
+    cursor: pointer;
+}
